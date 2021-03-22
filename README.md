@@ -120,6 +120,8 @@ _This checklist will apply to only Magento 2.x versions._
 * Does your site contain the latest security patches and updates?
   * [Magereport community scanner](https://www.magereport.com/)
   * [Magento security scanner](https://account.magento.com/scanner)
+* Is your site entirely free of malware of vulnerabilities?
+  *[Sansec eComscan](https://www.sansec.io/ecomscan) 
 * Are you applying the security patches' new standards/ changes to the custom code developed so far? Without this, the patch can be useless (the system is as strong as its weakest link).
 * Do you have a person with a subscription to security notices from Magento security blog for urgent patches/updates? 
   * [Magento Security center](https://magento.com/security)
@@ -131,4 +133,4 @@ _This checklist will apply to only Magento 2.x versions._
 * If you are using a Web Application Firewall (WAF) does it provide virtual patching and how do you keep it up to date?
 
 ## Additional resources
-* Magento User Guide's [Security Best Practices](https://docs.magento.com/m2/ee/user_guide/magento/magento-security-best-practices.html)
+* Magento User Guide's [Security Best Practices](https://docs.magento.com/user-guide/v2.3/magento/magento-security-best-practices.html)
